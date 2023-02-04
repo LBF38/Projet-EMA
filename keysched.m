@@ -1,4 +1,3 @@
-
 function w = keysched(key)
     global S_box;
     global m;
